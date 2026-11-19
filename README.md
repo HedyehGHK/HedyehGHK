@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Hedyeh 👋
 
-<!--
-**HedyehGHK/HedyehGHK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer based in Aurora, ON, with a background in industrial engineering.
+I build accessible websites and full-stack, AI-powered applications.
 
-Here are some ideas to get you started:
+- 🌐 Built the [Silverthorn Collegiate Institute website](https://schoolweb.tdsb.on.ca/silverthornci) (50+ pages, AODA/WCAG-reviewed) during my TDSB co-op
+- 📊 Website audit, React prototype, SQL model and Power BI dashboard for U+ Community
+- 🤖 Multi-agent LLM apps with Python and the Gemini API
+- 💎 JewelryOS — an inventory and invoicing app in daily use at a family-owned jewelry store
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech:** JavaScript · React · Node.js · Express · Python · SQL · MongoDB · HTML/CSS · Power BI
+
+📫 [LinkedIn](https://www.linkedin.com/in/hedyehghesmati/) · [Portfolio](https://hedyeh-portfolio.vercel.app/)
